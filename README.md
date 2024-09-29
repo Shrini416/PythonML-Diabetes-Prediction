@@ -13,3 +13,14 @@ Insulin: 2-Hour serum insulin (mu U/ml).
 BMI: Body Mass Index (weight in kg/(height in m)^2).
 DiabetesPedigreeFunction: A function that represents a person's genetic predisposition to diabetes.
 Age: The person's age.
+
+STEPS:
+Import Libraries.
+Load the Dataset.
+Exploratory Data Analysis (EDA).
+Data Preprocessing.
+Split Data.
+Train the Model.
+Make Predictions.
+Evaluate the Model.
+Save the Model.
